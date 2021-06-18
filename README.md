@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido utilizando as tecnologias mais recentes.
 **Clonando o projeto e acessando o diretório**
 
 ```bash
-$ git clone https://github.com/FeSilva-dev/next-podcastr.git && cd podcastr
+$ git clone https://github.com/FeSilva-dev/next-podcastr.git && cd next-podcastr
 ```
 
 **Siga os passos abaixo**
